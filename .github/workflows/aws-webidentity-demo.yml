@@ -1,5 +1,5 @@
 name: AWS Github Action Github OIDC role
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} is testing AWS Github Action Github OIDC role 🚀
 on:
   push:
     branches:
